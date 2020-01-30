@@ -31,6 +31,9 @@ pip3 install -U scikit-learn -y
 ##drivers Nvidia
 sudo ubuntu-drivers autoinstall -y
 
+##git
+sudo apt-get install git
+
 ##programa que auxilia instalação de outros programas utilitários
 sudo apt-get install snapd -y
 
