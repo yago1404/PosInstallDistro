@@ -40,6 +40,11 @@ sudo snap install sublime-text-3 --classic --candidate -y
 
 sudo snap install pycharm-professional --classic -y
 
+##visual studio code
+sudo snap install code --classic -y
+
+sudo snap install android-studio --classic -y
+
 echo "Fim das Instalações. Seu PC esta pronto para uso"
 
 
