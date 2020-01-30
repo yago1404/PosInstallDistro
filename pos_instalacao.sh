@@ -32,7 +32,9 @@ pip3 install -U scikit-learn -y
 sudo ubuntu-drivers autoinstall -y
 
 ##git
-sudo apt-get install git
+sudo apt-get install git -y
+git config --global user.name "yago1404"
+git config --global user.email "ytf@ic.ufal.br"
 
 ##programa que auxilia instalação de outros programas utilitários
 sudo apt-get install snapd -y
